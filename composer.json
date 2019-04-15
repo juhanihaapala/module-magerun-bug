@@ -1,0 +1,11 @@
+{
+  "name": "codaone/module-magerun",
+  "description": "",
+  "type": "magento2-module",
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Codaone\\Magerun\\": ""
+    }
+  }
+}
